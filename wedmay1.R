@@ -8,3 +8,4 @@ library(brcaProteo)
 
 #to open r markdown file :
 
+plot(1)
